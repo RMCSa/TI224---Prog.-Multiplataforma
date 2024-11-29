@@ -1,0 +1,49 @@
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.exe
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.deps.json
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.runtimeconfig.json
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.dll
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.pdb
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.GeneratedMSBuildEditorConfig.editorconfig
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfoInputs.cache
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfo.cs
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.csproj.CoreCompileInputs.cache
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.dll
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/refint/ListaDeExe1 - TI224.dll
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.pdb
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.genruntimeconfig.cache
+Z:/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ref/ListaDeExe1 - TI224.dll
+/Volumes/u23333/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/u23333/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfoInputs.cache
+/Volumes/u23333/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfo.cs
+/Volumes/u23333/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.csproj.CoreCompileInputs.cache
+/Volumes/u23333/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.dll
+/Volumes/u23333/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/refint/ListaDeExe1 - TI224.dll
+/Volumes/u23333/2024.1/TI224 - Prog. Multiplataform/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.pdb
+/Users/u23333/Documents/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224
+/Users/u23333/Documents/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.deps.json
+/Users/u23333/Documents/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.runtimeconfig.json
+/Users/u23333/Documents/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.dll
+/Users/u23333/Documents/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.pdb
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfoInputs.cache
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfo.cs
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.csproj.CoreCompileInputs.cache
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.dll
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/refint/ListaDeExe1 - TI224.dll
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.pdb
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.genruntimeconfig.cache
+/Users/u23333/Documents/ListaDeExe1 - TI224/obj/Debug/net8.0/ref/ListaDeExe1 - TI224.dll
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.deps.json
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.runtimeconfig.json
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.dll
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/bin/Debug/net8.0/ListaDeExe1 - TI224.pdb
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfoInputs.cache
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.AssemblyInfo.cs
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.csproj.CoreCompileInputs.cache
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.dll
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/refint/ListaDeExe1 - TI224.dll
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.pdb
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ListaDeExe1 - TI224.genruntimeconfig.cache
+/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/ListaDeExe1 - TI224/obj/Debug/net8.0/ref/ListaDeExe1 - TI224.dll

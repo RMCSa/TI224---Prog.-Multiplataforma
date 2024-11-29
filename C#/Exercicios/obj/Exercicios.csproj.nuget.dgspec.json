@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/Exercicios/Exercicios.csproj": {}
+  },
+  "projects": {
+    "/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/Exercicios/Exercicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/Exercicios/Exercicios.csproj",
+        "projectName": "Exercicios",
+        "projectPath": "/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/Exercicios/Exercicios.csproj",
+        "packagesPath": "/Users/u23333/.nuget/packages/",
+        "outputPath": "/Users/u23333/Projetos/TI224 - Prog. Multiplataforma/C#/Exercicios/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/u23333/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
